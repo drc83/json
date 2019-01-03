@@ -1,6 +1,5 @@
 {
   "nearest-location": [
     {"status":"SUCCESS","myLat":51.616419,"myLng":-0.319686,"locationID":"2","locationName":"Harrow","locationNumber":"88888"}
-  ],
-  
+  ] 
 }
