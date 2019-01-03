@@ -73,5 +73,31 @@
 			"edited": "2015-12-17T14:31:47.617768Z",
 			"url": "https://swapi.co/api/films/7/"
 		}
+	],
+	"results": [
+		{
+			"status": "SUCCESS",
+			"myLat": 51.616419,
+			"myLng": -0.319686,
+			"locationID": "2",
+			"locationName": "Harrow",
+			"locationNumber": "88888"
+		},
+		{
+			"status": "SUCCESS",
+			"myLat": 51.616893,
+			"myLng": -0.319323,
+			"locationID": "3",
+			"locationName": "Edgware",
+			"locationNumber": "99999"
+		},
+		{
+			"status": "SUCCESS",
+			"myLat": 51.616872,
+			"myLng": -0.319754,
+			"locationID": "4",
+			"locationName": "Colindale",
+			"locationNumber": "88777"
+		}
 	]
 }
