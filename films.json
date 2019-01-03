@@ -1,8 +1,3 @@
-HTTP 200 OK
-Allow: GET, HEAD, OPTIONS
-Vary: Accept
-Content-Type: application/json
-
 {
     "count": 7, 
     "next": null, 
